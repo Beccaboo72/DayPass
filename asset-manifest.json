@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DayPass/static/css/main.7268fc91.chunk.css",
+    "main.js": "/DayPass/static/js/main.498039f6.chunk.js",
+    "main.js.map": "/DayPass/static/js/main.498039f6.chunk.js.map",
+    "runtime-main.js": "/DayPass/static/js/runtime-main.bdd4faef.js",
+    "runtime-main.js.map": "/DayPass/static/js/runtime-main.bdd4faef.js.map",
+    "static/js/2.8b6ac784.chunk.js": "/DayPass/static/js/2.8b6ac784.chunk.js",
+    "static/js/2.8b6ac784.chunk.js.map": "/DayPass/static/js/2.8b6ac784.chunk.js.map",
+    "index.html": "/DayPass/index.html",
+    "precache-manifest.45c680da4007039748091a3446b158d5.js": "/DayPass/precache-manifest.45c680da4007039748091a3446b158d5.js",
+    "service-worker.js": "/DayPass/service-worker.js",
+    "static/css/main.7268fc91.chunk.css.map": "/DayPass/static/css/main.7268fc91.chunk.css.map",
+    "static/js/2.8b6ac784.chunk.js.LICENSE.txt": "/DayPass/static/js/2.8b6ac784.chunk.js.LICENSE.txt",
+    "static/media/Luv-It.jpeg": "/DayPass/static/media/Luv-It.a3131b41.jpeg",
+    "static/media/Treasures.jpg": "/DayPass/static/media/Treasures.d8e36028.jpg",
+    "static/media/afterhoursflowers.jpg": "/DayPass/static/media/afterhoursflowers.b5c13932.jpg",
+    "static/media/elcortez.jpg": "/DayPass/static/media/elcortez.ed948bd7.jpg",
+    "static/media/fremonteast.jpg": "/DayPass/static/media/fremonteast.33cec1ee.jpg",
+    "static/media/App.css": "/DayPass/static/media/goodsprings1.6a189790.jpg",
+    "static/media/jerrysnugget.webp": "/DayPass/static/media/jerrysnugget.524c9f76.webp",
+    "static/media/neonmuseum.jpg": "/DayPass/static/media/neonmuseum.b28f21c5.jpg",
+    "static/media/pawnstars.jpg": "/DayPass/static/media/pawnstars.be8660b5.jpg",
+    "static/media/sushisamba.jpg": "/DayPass/static/media/sushisamba.e9f7ac34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd4faef.js",
+    "static/js/2.8b6ac784.chunk.js",
+    "static/css/main.7268fc91.chunk.css",
+    "static/js/main.498039f6.chunk.js"
+  ]
+}
