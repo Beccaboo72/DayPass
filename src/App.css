@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+}
+html{
+  background-image: url(./goodsprings1.jpg);
+  background-repeat:repeat;
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  margin:0;
+  background-position: center;
+}
+.Title{
+  border:2px solid black;
+  border-radius:calc(5px + 1vw);
+  background-color: rgb(116, 179, 100);
+  margin: 2vh 2vw 2vh 2vw;
+  padding:3vmin;
+  font-size:24px;
+  display:inline-block;
+}
+.Button{
+  background-color:rgb(116,179,100);
+  padding:3vmin;
+  margin:1vh 3vw 1vh 3vw;
+  border-radius:calc(4px + 2vmin);
+  font-size:24px;
+}
+.Back{
+  padding:5px;
+  background-color:rgb(116, 179, 100);
+  border-radius:4px;
+  font-size:20px;
+  margin-right:100%;
+  margin-bottom:calc(4px - 0.5vh - 0.5vw);
+}
+ShowTable{
+  position:absolute;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.table-container{
+  background-color: rgba(214,188,71,0.9);
+  margin:4vw;
+  padding: 1vw 3vw 3vw 3vw;
+  border:3px solid black;
+  border-radius:calc(10px + 2vw);
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: fixed;
+} 
+td{border: 1px solid black}
+
+.AddressLink {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+img {
+  width:100%;
+}
+.welcome-message {
+  margin:5vh 10vw 5vh 10vw;
+  border:3px solid black;
+  border-radius:calc(10px + 2vw);
+  padding:5vw;
+  background-color:rgba(214,188,71,0.9);
+}
